@@ -14,10 +14,14 @@ The Pie Charts show that, study was almost equally performed among female and ma
 
 As per the quartiles, outliers and boxplot results for the Final Tumor Volume of each mouse across the four drug regimens, Capomulin and Ramicane has the lowest average final tumor volume. However, the study group for Capomulin is a bit higher than Ramican, which could effect the results. To get more accurate result, study should be conducted on the same number of mice. Among the four drug regimens, only Infubinol has one outlier located below the minimun value.
 
+<img width="447" alt="Screenshot 2023-01-31 at 6 26 38 PM" src="https://user-images.githubusercontent.com/120361200/215907144-99b06fe7-e8c5-4eda-a9bb-dae8904617a4.png">
+
+
 
 The line chart indicates a decreasing trend between Tumor Volume and Timepoint for the Capomulin regimen. Tumor Volume tends decrease overtime due to the treatment.
 
 <img width="495" alt="Screenshot 2023-01-31 at 6 09 19 PM" src="https://user-images.githubusercontent.com/120361200/215904661-2d691e90-0def-402b-9b42-10a1f721b910.png">
+
 
 
 
